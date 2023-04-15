@@ -87,25 +87,25 @@
     "item.icarus.red_light_wings": "红色轻翼",
     "item.icarus.black_light_wings": "黑色轻翼",
   
-    "item.icarus.flandres_wings": "Flandre's Wings",
-    "item.icarus.discords_wings": "Discord's Wings",
-    "item.icarus.zanzas_wings": "Zanza's Wings",
+    "item.icarus.flandres_wings": "芙兰朵露之翼",
+    "item.icarus.discords_wings": "混乱之翼",
+    "item.icarus.zanzas_wings": "查娜之翼",
   
     "origin.icarus.icarae.name": "伊卡拉鸟",
     "origin.icarus.icarae.description": "伊卡拉鸟是一种食肉鸟类，它们飞得很低，在障碍物之间穿梭以捕食猎物.",
-    "power.icarus.powered_flight.name": "翅膀!",
-    "power.icarus.powered_flight.description": "多亏了你的翅膀，你才能够在低空进行动力飞行.\n\nOf 当然你需要很轻才能飞得快，所以重装甲会显著降低你的速度.",
+    "power.icarus.wings.name": "翅膀!",
+    "power.icarus.wings.description": "多亏了你的翅膀，你才能够在低空进行动力飞行.\n\nOf 当然你需要很轻才能飞得快，所以重装甲会显著降低你的速度.",
     "power.icarus.hollow_bones.name": "中空的骨头",
     "power.icarus.hollow_bones.description": "为了飞行，伊卡拉鸟必须进化出中空的骨骼结构，类似于鸟类.\n\n这使得它们更容易受到伤害.",
   
     "icarus.midnightconfig.title": "伊卡洛斯之翼",
-    "icarus.midnightconfig.canLoopDeLoop": "玩家能否进行循环？",
-    "icarus.midnightconfig.armourSlows": "盔甲是否会使玩家飞行速度减慢？",
+    "icarus.midnightconfig.canLoopDeLoop": "玩家可以做空翻吗？",
+    "icarus.midnightconfig.armourSlows": "护甲是否会减慢玩家飞行速度？",
     "icarus.midnightconfig.canSlowFall": "玩家是否可以在飞行时潜行以缓慢降落？",
-    "icarus.midnightconfig.maxSlowedMultiplier": "在穿着装甲时减慢飞行速度的最大乘数",
-    "icarus.midnightconfig.wingsSpeed": "翼的飞行速度设置",
-    "icarus.midnightconfig.wingsAcceleration": "翼的加速度",
-    "icarus.midnightconfig.wingsDurability": "所有翼的耐久值",
+    "icarus.midnightconfig.maxSlowedMultiplier": "护甲造成减速的最大乘数",
+    "icarus.midnightconfig.wingsSpeed": "翅膀最大速度",
+    "icarus.midnightconfig.wingsAcceleration": "翅膀加速度",
+    "icarus.midnightconfig.wingsDurability": "翅膀耐久度",
     "icarus.midnightconfig.exhaustionAmount": "飞行时饥饿值的消耗",
-    "icarus.midnightconfig.rollAmount": "玩家在飞行时可以滚动多少？"
+    "icarus.midnightconfig.rollAmount": "玩家飞行时可以翻滚多少？"
   }
