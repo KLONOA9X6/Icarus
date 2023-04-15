@@ -91,12 +91,12 @@
     "item.icarus.discords_wings": "Discord's Wings",
     "item.icarus.zanzas_wings": "Zanza's Wings",
   
-    "origin.icarus.icarae.name": "伊卡洛斯之翼",
-    "origin.icarus.icarae.description": "Carnivorous bird people, Icarae fly low to the ground, weaving between and through obstacles to hunt their prey.",
-    "power.icarus.wings.name": "Wings!",
-    "power.icarus.wings.description": "Thanks to your wings, you are capable of powered flight at low-altitudes.\n\nOf course you need to be light-weight to fly fast, so heavy armor slows you down significantly.",
-    "power.icarus.hollow_bones.name": "Hollow Bones",
-    "power.icarus.hollow_bones.description": "In order to fly, Icarae had to evolve a hollow bone structure, similar to birds.\n\nThis causes them to be much more vulnerable to damage.",
+    "origin.icarus.icarae.name": "伊卡拉鸟",
+    "origin.icarus.icarae.description": "伊卡拉鸟是一种食肉鸟类，它们飞得很低，在障碍物之间穿梭以捕食猎物.",
+    "power.icarus.powered_flight.name": "翅膀!",
+    "power.icarus.powered_flight.description": "多亏了你的翅膀，你才能够在低空进行动力飞行.\n\nOf 当然你需要很轻才能飞得快，所以重装甲会显著降低你的速度.",
+    "power.icarus.hollow_bones.name": "中空的骨头",
+    "power.icarus.hollow_bones.description": "为了飞行，伊卡拉鸟必须进化出中空的骨骼结构，类似于鸟类.\n\n这使得它们更容易受到伤害.",
   
     "icarus.midnightconfig.title": "伊卡洛斯之翼",
     "icarus.midnightconfig.canLoopDeLoop": "玩家能否进行循环？",
