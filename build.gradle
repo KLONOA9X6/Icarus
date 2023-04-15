@@ -36,7 +36,7 @@ dependencies {
     modImplementation "com.terraformersmc:modmenu:${project.modmenu_version}"
     modImplementation "maven.modrinth:origins:${project.origins_version}"
     modImplementation "maven.modrinth:midnightlib:${project.midnightlib_version}"
-    modImplementation "com.github.apace100:apoli:624eb4d094"
+    modImplementation "com.github.apace100:apoli:v2.6.1"
     modImplementation "com.github.apace100:calio:v1.7.0"
 }
 
