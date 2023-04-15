@@ -77,4 +77,14 @@ public class IcarusHelper {
 
 		player.stopFallFlying();
 	}
+
+	public static void hungerStopFlying(PlayerEntity player) {
+		((SlowFallEntity) player).setSlowFalling(true);
+
+		if(player.getPitch() < -90 || player.getPitch() > 90) {
+			float offset = (player.getPitch() < -90 ? player.getPitch() + 180 : player.getPitch() - 180) * 2;
+			player.setPitch((player.getPitch() < -90 ? 180 + offset : -180 - offset) + player.getPitch());
+			player.setYaw(180 + player.getYaw());
+		}
+	}
 }

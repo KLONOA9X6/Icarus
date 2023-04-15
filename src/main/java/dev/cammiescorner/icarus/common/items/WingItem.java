@@ -47,8 +47,13 @@ public class WingItem extends TrinketItem {
 			if(Icarus.HAS_WINGS.test(player))
 				return;
 
-			if(player.getHungerManager().getFoodLevel() <= 6 || !isUsable(stack)) {
+			if(!isUsable(stack)) {
 				IcarusHelper.stopFlying(player);
+				return;
+			}
+
+			if(player.getHungerManager().getFoodLevel() <= 6) {
+				IcarusHelper.hungerStopFlying(player);
 				return;
 			}
 
